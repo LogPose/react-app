@@ -1,0 +1,9 @@
+.leftSideBox{
+    position: relative;
+    width: 200px;
+    height: 400px;
+    background-color: burlywood;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
